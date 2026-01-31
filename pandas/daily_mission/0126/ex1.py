@@ -32,6 +32,7 @@ print(nums3)
 
 #데이터파일 불러오기
 wine_reviews = pd.read_csv("daily_mission/0126/winemag-data-130k-v2.csv")
+print(wine_reviews.head())
 
 print(wine_reviews.shape)
 print(wine_reviews.head())
