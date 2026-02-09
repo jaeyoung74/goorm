@@ -38,17 +38,8 @@ fig.update_layout(title_text="Using update_layout() With Graph object Figures", 
 fig.show()
 
 
-#update_xaxes(), update_yaxes() - 각각 X축, Y축에 관한 다양한 편집이 가능
-import plotly.graph_objects as go
-import plotly.express as px
-#데이터 생성
-df = px.data.tips()
-x = df["total_bill"]
-y = df["tip"]
-#그래프 그리기
-fig = go.Figure(data=go.Scatter(x=x, y=y, mode='markers'))
-#축 타이틀 추가하기
-fig.update_xaxes(title_text="Totla Bill ($)")
-fig.update_yaxes(title_text="Tip ($)")
-fig.show()
+
+
+
+
 
