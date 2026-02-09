@@ -1,4 +1,4 @@
-#update_xaxes(), update_yaxes() - 각각 X축, Y축에 관한 다양한 편집이 가능
+# update_xaxes(), update_yaxes() - 각각 X축, Y축에 관한 다양한 편집이 가능
 import plotly.graph_objects as go
 import plotly.express as px
 #데이터 생성
