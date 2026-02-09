@@ -1,4 +1,4 @@
-#truncate 메소드
+# truncate 메소드
 #행이나 열에 대해서 앞뒤를 자르는 메서드
 
 import pandas as pd

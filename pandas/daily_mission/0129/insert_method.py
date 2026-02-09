@@ -1,4 +1,4 @@
-#insert 메소드 구현하기
+# insert 메소드 구현하기
 import pandas as pd
 
 game = pd.read_csv("/Users/goorm/desktop/goorm/python_start/pandas/daily_mission/0129/games.csv")

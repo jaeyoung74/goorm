@@ -1,4 +1,4 @@
-#copy 메소드 구현하기
+# copy 메소드 구현하기
 #copy: pandas 객체를 복사함
 #deep copy 와 shallow copy 기능을 지원함
 

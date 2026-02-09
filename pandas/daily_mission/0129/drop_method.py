@@ -1,4 +1,4 @@
-#drop 메소드 구현하기
+# drop 메소드 구현하기
 
 #drop
 #DataFrame.drop(labels=None, axis=0, index=None, columns=None, level=None, inplace=False, errors='raise')

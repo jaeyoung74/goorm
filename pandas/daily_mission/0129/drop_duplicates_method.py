@@ -1,4 +1,4 @@
-#drop_duplicates
+# drop_duplicates
 #내용이 중복되는 행을 제거하는 메서드
 #df.drop_duplicates(subset=None, keep='first', inplace=False, ignore_indes=False)
 #subset : 중복값을 검사할 열/ 기본적으로 모든 열을 검사

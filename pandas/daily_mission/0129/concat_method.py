@@ -1,4 +1,4 @@
-#concat 메서드 구현하기
+# concat 메서드 구현하기
 import pandas as pd
 
 s1 = pd.Series(["a", "b"])
