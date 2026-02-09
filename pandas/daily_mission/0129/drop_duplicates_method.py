@@ -26,5 +26,5 @@ print(df.drop_duplicates(subset='id', keep='first'))
 #keep='last'인 경우 마지막 값을 남김
 print(df.drop_duplicates(subset='id', keep='last'))
 
-#ignore_index=True
+#ignore_index = True
 print(df.drop_duplicates(subset='id', keep='last', ignore_index=True))
